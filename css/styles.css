@@ -87,3 +87,21 @@ a:hover {
 #main-footer p {
     background-color: #efefdf;
 }
+
+.my-form {
+    padding: 20px;
+}
+.my-form .form-group {
+    padding-bottom: 10px;
+}
+.my-form label {
+    display: block;
+}
+.my-form input, .my-form select {
+    background-color: #efefdf;
+}
+.my-form input[type="text"], .my-form textarea {
+    padding: 8px;
+    width: 100%;
+    background-color: #efefdf;
+}
